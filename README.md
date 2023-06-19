@@ -11,14 +11,14 @@
 
 # Задание 2
 
-[memcached](https://github.com/olimp85/caching/blob/main/memcached%20runing.png)
+![memcached](https://github.com/olimp85/caching/blob/main/memcached%20runing.png)
 
 # Задание 3
 
-[telnet](https://github.com/olimp85/caching/blob/main/memcached%20telnet.jpg)
+![telnet](https://github.com/olimp85/caching/blob/main/memcached%20telnet.jpg)
 
 # Задание 4
 
-[redis](https://github.com/olimp85/caching/blob/main/redis.jpg)
+![redis](https://github.com/olimp85/caching/blob/main/redis.jpg)
 
 #
